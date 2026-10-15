@@ -49,7 +49,7 @@
 ## 项目结构
 
 ```
-practices/
+pyspark-data-warehouse/
 ├── README.md                    # 项目说明（本文件）
 ├── f1_ods.py                     # ODS贴源层 + DWD明细层（数据导入+JOIN生成宽表）
 ├── f3_dws.py                     # DWS汇总层（3张主题汇总表）
